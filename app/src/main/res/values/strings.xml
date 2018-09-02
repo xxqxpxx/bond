@@ -1,11 +1,10 @@
 <resources>
+
     <string name="app_name">Bond</string>
     <string name="s1"><b>Welcome to Bond</b>, Novartis Oncology Assistant whom you can ask and she will answer all your queries.</string>
     <string name="s2">BOND will support you with all the recent and updates in the field of Oncology</string>
     <string name="s3">BOND is your consultant for any information required regarding Novartis medications</string>
     <string name="s4">You can either write to her or directly talk to her</string>
     <string name="s5">Hope youd enjoy chatting with our Bond</string>
-    <string name="s6">Bond</string>
-
 
 </resources>
