@@ -1,4 +1,4 @@
-package eg.com.cat.bond;
+package eg.com.cat.bond.UI;
 
 
 import android.os.Bundle;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.Locale;
+
+import eg.com.cat.bond.R;
 
 public class MainActivity extends AppCompatActivity implements TextToSpeech.OnUtteranceCompletedListener {
 

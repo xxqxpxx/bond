@@ -7,4 +7,7 @@
     <string name="s4">You can either write to her or directly talk to her</string>
     <string name="s5">Hope youd enjoy chatting with our Bond</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
